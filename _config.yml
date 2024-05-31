@@ -41,12 +41,12 @@ footer:
 social:
  
   - title: facebook
-    url: 
+    url: https://www.facebook.com/profile.php?id=100022497922169
 - title: github
     url: https://github.com/D-cano2
 # Postal address (add as many lines as necessary)
 address:
-  - Argentina
+  - line: Argentina
 
 
 
